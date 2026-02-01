@@ -1,0 +1,36 @@
+username,name,email,topic,followers,public_repos
+torvalds,Linus Torvalds,,react,281975,11
+karpathy,Andrej,andrej.karpathy@gmail.com,react,130233,61
+gustavoguanabara,Gustavo Guanabara,,react,108785,8
+yyx990803,Evan You,,react,106680,198
+gaearon,dan,dan.abramov@gmail.com,react,90344,293
+torvalds,Linus Torvalds,,angular,281975,11
+karpathy,Andrej,andrej.karpathy@gmail.com,angular,130233,61
+gustavoguanabara,Gustavo Guanabara,,angular,108785,8
+yyx990803,Evan You,,angular,106680,198
+gaearon,dan,dan.abramov@gmail.com,angular,90344,293
+torvalds,Linus Torvalds,,react-native,281975,11
+karpathy,Andrej,andrej.karpathy@gmail.com,react-native,130233,61
+gustavoguanabara,Gustavo Guanabara,,react-native,108785,8
+yyx990803,Evan You,,react-native,106680,198
+gaearon,dan,dan.abramov@gmail.com,react-native,90344,293
+karpathy,Andrej,andrej.karpathy@gmail.com,python,130233,61
+rafaballerini,Rafaella Ballerini,contatorafaballerini@gmail.com,python,58918,59
+geohot,George Hotz,,python,45909,100
+krishnaik06,Krish C Naik,krishnaik06@gmail.com,python,40241,345
+3b1b,Grant Sanderson,,python,39107,9
+torvalds,Linus Torvalds,,docker,281975,11
+karpathy,Andrej,andrej.karpathy@gmail.com,docker,130233,61
+gustavoguanabara,Gustavo Guanabara,,docker,108785,8
+yyx990803,Evan You,,docker,106680,198
+gaearon,dan,dan.abramov@gmail.com,docker,90344,293
+torvalds,Linus Torvalds,,kubernetes,281975,11
+karpathy,Andrej,andrej.karpathy@gmail.com,kubernetes,130233,61
+gustavoguanabara,Gustavo Guanabara,,kubernetes,108785,8
+yyx990803,Evan You,,kubernetes,106680,198
+gaearon,dan,dan.abramov@gmail.com,kubernetes,90344,293
+trekhleb,Oleksii Trekhleb,,typescript,17729,25
+gopinav,Vishwas,,typescript,15674,81
+mosh-hamedani,Mosh Hamedani,,typescript,15181,32
+idimetrix,Dmitry Selikhov,selikhov.dmitrey@gmail.com,typescript,15013,4275
+Klerith,Fernando Herrera,,typescript,14881,561
