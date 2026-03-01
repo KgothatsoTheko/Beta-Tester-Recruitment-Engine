@@ -32,7 +32,7 @@ Finding the right beta testers is often the hardest part of launching a new deve
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine.git](https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine.git)
+git clone https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine
 cd Beta-Tester-Recruitment-Engine
 ```
 ### 2. Install dependencies
